@@ -49,6 +49,7 @@
     <Compile Include="September2020\Sep3.cs" />
     <Compile Include="September2020\Sep4.cs" />
     <Compile Include="September2020\Sep5.cs" />
+    <Compile Include="September2020\Sep6.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
