@@ -11,9 +11,7 @@ namespace WhiteboardingProblems
     {
         static void Main(string[] args)
         {
-            object o1 = 650;
-
-            Console.WriteLine(o1.GetType());
+            
             Console.ReadLine();
         }
 
