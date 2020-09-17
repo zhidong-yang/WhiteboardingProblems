@@ -51,6 +51,7 @@
     <Compile Include="September2020\Sep13.cs" />
     <Compile Include="September2020\Sep14.cs" />
     <Compile Include="September2020\Sep15.cs" />
+    <Compile Include="September2020\Sep17.cs" />
     <Compile Include="September2020\Sep3.cs" />
     <Compile Include="September2020\Sep4.cs" />
     <Compile Include="September2020\Sep5.cs" />
